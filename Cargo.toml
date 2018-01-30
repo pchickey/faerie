@@ -23,3 +23,6 @@ structopt-derive = "0.1.0"
 string-interner = "0.6.3"
 failure = "0.1.0"
 failure_derive = "0.1.0"
+
+[dev-dependencies]
+tempdir = "0.3"
